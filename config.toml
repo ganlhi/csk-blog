@@ -1,4 +1,4 @@
-baseurl = "http://ganlhi.space/csk-blog/"
+baseurl = "https://ganlhi.github.io/csk-blog/"
 title = "Centre Spatial de Kerbin"
 languageCode = "fr-fr"
 theme = "blackburn"
