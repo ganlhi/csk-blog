@@ -1,0 +1,5 @@
+{{ with .Site.Params.brand }}
+  <a class="pure-menu-heading brand" href="/">
+    <img src="{{ $.Site.BaseURL }}images/CSK_flag.png" alt="{{ . | safeHTML }}" />
+  </a>
+{{ end }}
