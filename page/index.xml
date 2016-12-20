@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page-rsses on Centre Spatial de Kerbin</title>
+    <link>https://ganlhi.github.io/csk-blog/page/index.xml</link>
+    <description>Recent content in Page-rsses on Centre Spatial de Kerbin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 20 Dec 2016 08:15:34 +0100</lastBuildDate>
+    <atom:link href="https://ganlhi.github.io/csk-blog/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Le Centre Spatial de Kerbin</title>
+      <link>https://ganlhi.github.io/csk-blog/centre-spatial</link>
+      <pubDate>Tue, 20 Dec 2016 08:15:34 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/centre-spatial</guid>
+      <description>
+
+&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;
+
+&lt;p&gt;Ce site présente une partie de Kerbal Space Program axée sur un gameplay avancé, semi-réaliste, basé sur l&amp;rsquo;automatisation. Cette automatisation est rendue possible par l&amp;rsquo;utilisation du mod &lt;a href=&#34;http://krpc.github.io/krpc&#34;&gt;kRPC&lt;/a&gt;, qui permet d&amp;rsquo;écrire des programmes de contrôle pour les vaisseaux du jeu en utilisant un langage de programmation réel (j&amp;rsquo;utilise Python).&lt;/p&gt;
+
+&lt;p&gt;Les autres mods utilisés seront décris plus bas.&lt;/p&gt;
+
+&lt;h2 id=&#34;mode-de-fonctionnement&#34;&gt;Mode de fonctionnement&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;objectif de cette partie de simuler une progression technologique réaliste d&amp;rsquo;un programme spatial débutant. De plus, il s&amp;rsquo;agit de concevoir et de lancer des fusées de manière également réaliste; ce qui implique de réutiliser autant que possible les conceptions existantes ou de les faire évoluer, plutôt que de partir d&amp;rsquo;une feuille blanche pour chaque nouveau besoin (car le développement d&amp;rsquo;un nouveau matériel prend du temps). Cela implique aussi d&amp;rsquo;effectuer des lancements d&amp;rsquo;une manière proche du réel, donc en s&amp;rsquo;appuyant sur des programmes informatiques de guidage, car même lors d&amp;rsquo;un vol habité, aucun humain n&amp;rsquo;a jamais &amp;ldquo;piloté&amp;rdquo; le lancement de sa fusée ! Les règles sont donc les suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tout vol, habité ou non, sera automatisé du sol à l&amp;rsquo;orbite.&lt;/li&gt;
+&lt;li&gt;Tout pilotage effectué par un Kerbal sera fait intégralement en vue intérieure (IVA).&lt;/li&gt;
+&lt;li&gt;Tout pilotage effectué par une sonde sera fait par un programme. Aucun contrôle direct de la fusée ne sera utilisé.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le temps nécessaire à l&amp;rsquo;assemblage d&amp;rsquo;une fusée sera simulé au travers d&amp;rsquo;un planning de lancement prenant en compte la complexité du matériel à assembler pour le lancement.&lt;/p&gt;
+
+&lt;h2 id=&#34;mods-utilisés&#34;&gt;Mods utilisés&lt;/h2&gt;
+
+&lt;p&gt;Outre le mod &lt;a href=&#34;http://krpc.github.io/krpc&#34;&gt;kRPC&lt;/a&gt; déjà cité, voici les mods utilisés pour cette partie qui ont un impact sur le gameplay :&lt;/p&gt;
+
+&lt;h3 id=&#34;usi-life-support-http-forum-kerbalspaceprogram-com-index-php-topic-105202-12-usi-life-support-050&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/105202-12-usi-life-support-050/&#34;&gt;USI Life Support&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Les vols habités devront être ravitaillés en &lt;em&gt;Supplies&lt;/em&gt; et en électricité pour assurer le support vital des kerbals. Ce mod ayant des options plus ou moins strictes, celles-ci seront réglées au plus dur. Un kerbal qui n&amp;rsquo;a rien à manger pendant plusieurs jours est un kerbal mort !&lt;/p&gt;
+
+&lt;h3 id=&#34;remote-tech-http-forum-kerbalspaceprogram-com-index-php-topic-75245-11-remotetech-v1610-2016-04-12&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/75245-11-remotetech-v1610-2016-04-12/&#34;&gt;Remote Tech&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Toute communication avec un vaisseau devra être supportée par un réseau de communication actif, fourni par Remote Tech.&lt;/p&gt;
+
+&lt;h3 id=&#34;kscale64-http-forum-kerbalspaceprogram-com-index-php-topic-87284-kscale64-v1301-ksp-11x-22nd-may-2016&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/87284-kscale64-v1301-ksp-11x-22nd-may-2016/&#34;&gt;KScale64&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Ce mod multiplie par 6,4 les dimensions du système stellaire de Kerbol, afin de se rapprocher des dimensions de notre propre système solaire. Certains paramètres de Kerbin elle-même sont ajustés afin de fournir la meilleure expérience possible :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;période de rotation de 24h&lt;/li&gt;
+&lt;li&gt;ligne de Kármán à 93 km (on s&amp;rsquo;approche des 100 km terriens)&lt;/li&gt;
+&lt;li&gt;delta V moyen pour une mise en orbite : 8500 m/s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;L&amp;rsquo;une des principales conséquences de l&amp;rsquo;utilisation de ce mod (et la raison pour laquelle j&amp;rsquo;ai décidé de l&amp;rsquo;utiliser) est que les fusées sont bien plus grandes et plus élancées que celles que l&amp;rsquo;on construit habituellement dans KSP, ce qui les rend plus réalistes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

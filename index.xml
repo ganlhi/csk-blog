@@ -6,8 +6,154 @@
     <description>Recent content on Centre Spatial de Kerbin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 19 Dec 2016 11:58:28 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2016 13:02:43 +0100</lastBuildDate>
     <atom:link href="https://ganlhi.github.io/csk-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Annonce de la mission Apogée</title>
+      <link>https://ganlhi.github.io/csk-blog/post/Y01D020_annonce_apogee/</link>
+      <pubDate>Tue, 20 Dec 2016 13:02:43 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/post/Y01D020_annonce_apogee/</guid>
+      <description>&lt;p&gt;À la sortie d&amp;rsquo;une réunion du comité directeur du CSK, l&amp;rsquo;administrateur Elijah Kerman a une annonce à faire :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nous avons le plaisir de vous annoncer que d&amp;rsquo;après nos ingénieurs, la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt; pourra bien être lancée dans dix jours, comme prévu initialement.&lt;/p&gt;
+
+&lt;p&gt;Notre service de presse se tient à votre disposition pour vous fournir tous les détails publics concernant cette &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions&#34;&gt;mission&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Merci de votre attention !&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apogée</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/apogee/</link>
+      <pubDate>Tue, 20 Dec 2016 12:51:41 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/apogee/</guid>
+      <description>&lt;p&gt;Ce satellite, nommé d&amp;rsquo;après la mission qu&amp;rsquo;il doit accomplir, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, est le premier conçu par le CSK.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est un satellite relativement simple, équipé d&amp;rsquo;une batterie, de panneaux solaires, d&amp;rsquo;une antenne omni-directionelle, et surtout d&amp;rsquo;une caméra qui doit lui permettre d&amp;rsquo;accomplir sa mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Apogee/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La caméra est assez rudimentaire, et ne délivre que des images en noir et blanc assez bruitées. Mais elle a la capacité de résister aux rigueurs de l&amp;rsquo;espace; de plus les images qu&amp;rsquo;elle produit sont d&amp;rsquo;assez basses résolution pour être facilement transmises au sol grâce à la petite antenne du satellite.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apogée</title>
+      <link>https://ganlhi.github.io/csk-blog/missions/apogee/</link>
+      <pubDate>Tue, 20 Dec 2016 11:56:47 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/missions/apogee/</guid>
+      <description>
+
+&lt;p&gt;La mission Apogée a pour objectif de réaliser la première mise en orbite d&amp;rsquo;un satellite artificiel autour de Kerbin. Afin de valider l&amp;rsquo;ensemble des expérimentations et des calculs passés, il est prévu de placer en orbite basse un petit satellite dont la mission, très simple, consistera à prendre une photo de notre belle planète, lors de son passage au dessus du centre spatial.&lt;/p&gt;
+
+&lt;p&gt;Le satellite sera placé sur une trajectoire quasiment orbitale par un lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/vaisseaux/vagabond&#34;&gt;Vagabond&lt;/a&gt;. Puis, le satellite terminera la mise en orbite par son propre moyen de propulsion, un petit moteur à ergols liquides.&lt;/p&gt;
+
+&lt;p&gt;Ce satellite porte tout simplement le nom de la mission: &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/vaisseaux/apogee&#34;&gt;Apogée&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendrier&#34;&gt;Calendrier&lt;/h2&gt;
+
+&lt;p&gt;La conception du satellite ayant débuté un peu avant la date zéro du nouveau calendrier, le lancement devrait avoir lieu aux alentours du trentième jour de l&amp;rsquo;année.&lt;/p&gt;
+
+&lt;p&gt;Certains s&amp;rsquo;étaient prononcés pour un lancement du Vagabond embarquant une charge fictive, afin de tester le lanceur, mais étant donné que le lanceur lui-même coûte bien plus cher que le petit satellite, il a été décidé de tenter d&amp;rsquo;accomplir la mission dès le premier lancement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vagabond</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/</link>
+      <pubDate>Tue, 20 Dec 2016 08:57:41 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/</guid>
+      <description>
+
+&lt;p&gt;Le lanceur Vagabond est le premier lanceur conçu par le CSK. Ses capacités lui permettent de lancer en orbite basse de Kerbin de petites charges jusqu&amp;rsquo;à 400 kg.&lt;/p&gt;
+
+&lt;p&gt;Initialement conçu pour la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Vagabond/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;caractéristiques-techniques&#34;&gt;Caractéristiques techniques&lt;/h2&gt;
+
+&lt;p&gt;Le Vagabond est un lanceur à trois étages : un premier étage à propulsion solide et deux à propulsion liquide. Au lancement, sa masse est d&amp;rsquo;environ 25,3 tonnes.&lt;/p&gt;
+
+&lt;h3 id=&#34;premier-étage&#34;&gt;Premier étage&lt;/h3&gt;
+
+&lt;p&gt;Le premier étage du Vagabond est constitué d&amp;rsquo;un propulseur à poudre &lt;em&gt;SRB-C&lt;/em&gt; contenant près de 9,8 tonnes de combustibles, et fournissant une poussée de 164 kN au niveau de la mer pour une Isp de 210 secondes. Il est doté d&amp;rsquo;une tuyère orientable de 2° pour assurer le contrôle d&amp;rsquo;attitude du Vagabond pendant la première phase du vol.&lt;/p&gt;
+
+&lt;h3 id=&#34;deuxième-étage&#34;&gt;Deuxième étage&lt;/h3&gt;
+
+&lt;p&gt;Le deuxième étage est un étage à propulsion liquide fonctionnant avec du kérosène (4,1 tonnes) et de l&amp;rsquo;oxygène liquide (5 tonnes). La poussée est assurée par un moteur &lt;em&gt;Merlin 1C&lt;/em&gt;, fournissant 197 kN de poussée dans le vide, pour une Isp de 305 secondes. Sa tuyère est orientable de 5°.&lt;/p&gt;
+
+&lt;h3 id=&#34;troisième-étage&#34;&gt;Troisième étage&lt;/h3&gt;
+
+&lt;p&gt;L&amp;rsquo;étage supérieur fonctionne avec un couple carburant/comburant hypergolique : &lt;a href=&#34;https://fr.wikipedia.org/wiki/A%C3%A9rozine_50&#34;&gt;Aérozine 50&lt;/a&gt; comme carburant, et le &lt;a href=&#34;https://fr.wikipedia.org/wiki/Peroxyde_d%27azote&#34;&gt;péroxyde d&amp;rsquo;azote, ou NTO&lt;/a&gt; comme comburant. Le réservoir de cet étage contient 670 kg d&amp;rsquo;Aérozine 50 et 1080 kg de NTO. Le moteur est un &lt;em&gt;LR81-8096&lt;/em&gt; fournissant 31 kN de poussée dans le vide pour une Isp de 300 secondes. Sa tuyère est orientable de 2,5°.&lt;/p&gt;
+
+&lt;p&gt;Cet étage contient également un peu de monergol (10 kg) est dispose de quatre propulseurs RCS à la base du réservoir, pour permettre l&amp;rsquo;orientation de l&amp;rsquo;étage alors que le moteur est éteint (pendant une phase de vol balistique avant une maneuvre par exemple).&lt;/p&gt;
+
+&lt;p&gt;Il y a également une caméra placée sur le flanc du réservoir, qui permet aux équipes au sol de s&amp;rsquo;assurer de la bonne séparation des étages inférieurs pendant l&amp;rsquo;ascension.&lt;/p&gt;
+
+&lt;p&gt;Enfin, une coiffe constituée de quatre panneaux protège la charge utile montée au dessus de ce troisième étage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le Centre Spatial de Kerbin</title>
+      <link>https://ganlhi.github.io/csk-blog/centre-spatial</link>
+      <pubDate>Tue, 20 Dec 2016 08:15:34 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/centre-spatial</guid>
+      <description>
+
+&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;
+
+&lt;p&gt;Ce site présente une partie de Kerbal Space Program axée sur un gameplay avancé, semi-réaliste, basé sur l&amp;rsquo;automatisation. Cette automatisation est rendue possible par l&amp;rsquo;utilisation du mod &lt;a href=&#34;http://krpc.github.io/krpc&#34;&gt;kRPC&lt;/a&gt;, qui permet d&amp;rsquo;écrire des programmes de contrôle pour les vaisseaux du jeu en utilisant un langage de programmation réel (j&amp;rsquo;utilise Python).&lt;/p&gt;
+
+&lt;p&gt;Les autres mods utilisés seront décris plus bas.&lt;/p&gt;
+
+&lt;h2 id=&#34;mode-de-fonctionnement&#34;&gt;Mode de fonctionnement&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;objectif de cette partie de simuler une progression technologique réaliste d&amp;rsquo;un programme spatial débutant. De plus, il s&amp;rsquo;agit de concevoir et de lancer des fusées de manière également réaliste; ce qui implique de réutiliser autant que possible les conceptions existantes ou de les faire évoluer, plutôt que de partir d&amp;rsquo;une feuille blanche pour chaque nouveau besoin (car le développement d&amp;rsquo;un nouveau matériel prend du temps). Cela implique aussi d&amp;rsquo;effectuer des lancements d&amp;rsquo;une manière proche du réel, donc en s&amp;rsquo;appuyant sur des programmes informatiques de guidage, car même lors d&amp;rsquo;un vol habité, aucun humain n&amp;rsquo;a jamais &amp;ldquo;piloté&amp;rdquo; le lancement de sa fusée ! Les règles sont donc les suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tout vol, habité ou non, sera automatisé du sol à l&amp;rsquo;orbite.&lt;/li&gt;
+&lt;li&gt;Tout pilotage effectué par un Kerbal sera fait intégralement en vue intérieure (IVA).&lt;/li&gt;
+&lt;li&gt;Tout pilotage effectué par une sonde sera fait par un programme. Aucun contrôle direct de la fusée ne sera utilisé.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le temps nécessaire à l&amp;rsquo;assemblage d&amp;rsquo;une fusée sera simulé au travers d&amp;rsquo;un planning de lancement prenant en compte la complexité du matériel à assembler pour le lancement.&lt;/p&gt;
+
+&lt;h2 id=&#34;mods-utilisés&#34;&gt;Mods utilisés&lt;/h2&gt;
+
+&lt;p&gt;Outre le mod &lt;a href=&#34;http://krpc.github.io/krpc&#34;&gt;kRPC&lt;/a&gt; déjà cité, voici les mods utilisés pour cette partie qui ont un impact sur le gameplay :&lt;/p&gt;
+
+&lt;h3 id=&#34;usi-life-support-http-forum-kerbalspaceprogram-com-index-php-topic-105202-12-usi-life-support-050&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/105202-12-usi-life-support-050/&#34;&gt;USI Life Support&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Les vols habités devront être ravitaillés en &lt;em&gt;Supplies&lt;/em&gt; et en électricité pour assurer le support vital des kerbals. Ce mod ayant des options plus ou moins strictes, celles-ci seront réglées au plus dur. Un kerbal qui n&amp;rsquo;a rien à manger pendant plusieurs jours est un kerbal mort !&lt;/p&gt;
+
+&lt;h3 id=&#34;remote-tech-http-forum-kerbalspaceprogram-com-index-php-topic-75245-11-remotetech-v1610-2016-04-12&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/75245-11-remotetech-v1610-2016-04-12/&#34;&gt;Remote Tech&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Toute communication avec un vaisseau devra être supportée par un réseau de communication actif, fourni par Remote Tech.&lt;/p&gt;
+
+&lt;h3 id=&#34;kscale64-http-forum-kerbalspaceprogram-com-index-php-topic-87284-kscale64-v1301-ksp-11x-22nd-may-2016&#34;&gt;&lt;a href=&#34;http://forum.kerbalspaceprogram.com/index.php?/topic/87284-kscale64-v1301-ksp-11x-22nd-may-2016/&#34;&gt;KScale64&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Ce mod multiplie par 6,4 les dimensions du système stellaire de Kerbol, afin de se rapprocher des dimensions de notre propre système solaire. Certains paramètres de Kerbin elle-même sont ajustés afin de fournir la meilleure expérience possible :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;période de rotation de 24h&lt;/li&gt;
+&lt;li&gt;ligne de Kármán à 93 km (on s&amp;rsquo;approche des 100 km terriens)&lt;/li&gt;
+&lt;li&gt;delta V moyen pour une mise en orbite : 8500 m/s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;L&amp;rsquo;une des principales conséquences de l&amp;rsquo;utilisation de ce mod (et la raison pour laquelle j&amp;rsquo;ai décidé de l&amp;rsquo;utiliser) est que les fusées sont bien plus grandes et plus élancées que celles que l&amp;rsquo;on construit habituellement dans KSP, ce qui les rend plus réalistes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ouverture du centre spatial</title>

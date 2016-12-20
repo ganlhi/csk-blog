@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaisseaux-rsses on Centre Spatial de Kerbin</title>
+    <link>https://ganlhi.github.io/csk-blog/vaisseaux/index.xml</link>
+    <description>Recent content in Vaisseaux-rsses on Centre Spatial de Kerbin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 20 Dec 2016 12:51:41 +0100</lastBuildDate>
+    <atom:link href="https://ganlhi.github.io/csk-blog/vaisseaux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apogée</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/apogee/</link>
+      <pubDate>Tue, 20 Dec 2016 12:51:41 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/apogee/</guid>
+      <description>&lt;p&gt;Ce satellite, nommé d&amp;rsquo;après la mission qu&amp;rsquo;il doit accomplir, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, est le premier conçu par le CSK.&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;est un satellite relativement simple, équipé d&amp;rsquo;une batterie, de panneaux solaires, d&amp;rsquo;une antenne omni-directionelle, et surtout d&amp;rsquo;une caméra qui doit lui permettre d&amp;rsquo;accomplir sa mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Apogee/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La caméra est assez rudimentaire, et ne délivre que des images en noir et blanc assez bruitées. Mais elle a la capacité de résister aux rigueurs de l&amp;rsquo;espace; de plus les images qu&amp;rsquo;elle produit sont d&amp;rsquo;assez basses résolution pour être facilement transmises au sol grâce à la petite antenne du satellite.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vagabond</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/</link>
+      <pubDate>Tue, 20 Dec 2016 08:57:41 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/</guid>
+      <description>
+
+&lt;p&gt;Le lanceur Vagabond est le premier lanceur conçu par le CSK. Ses capacités lui permettent de lancer en orbite basse de Kerbin de petites charges jusqu&amp;rsquo;à 400 kg.&lt;/p&gt;
+
+&lt;p&gt;Initialement conçu pour la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Vagabond/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;caractéristiques-techniques&#34;&gt;Caractéristiques techniques&lt;/h2&gt;
+
+&lt;p&gt;Le Vagabond est un lanceur à trois étages : un premier étage à propulsion solide et deux à propulsion liquide. Au lancement, sa masse est d&amp;rsquo;environ 25,3 tonnes.&lt;/p&gt;
+
+&lt;h3 id=&#34;premier-étage&#34;&gt;Premier étage&lt;/h3&gt;
+
+&lt;p&gt;Le premier étage du Vagabond est constitué d&amp;rsquo;un propulseur à poudre &lt;em&gt;SRB-C&lt;/em&gt; contenant près de 9,8 tonnes de combustibles, et fournissant une poussée de 164 kN au niveau de la mer pour une Isp de 210 secondes. Il est doté d&amp;rsquo;une tuyère orientable de 2° pour assurer le contrôle d&amp;rsquo;attitude du Vagabond pendant la première phase du vol.&lt;/p&gt;
+
+&lt;h3 id=&#34;deuxième-étage&#34;&gt;Deuxième étage&lt;/h3&gt;
+
+&lt;p&gt;Le deuxième étage est un étage à propulsion liquide fonctionnant avec du kérosène (4,1 tonnes) et de l&amp;rsquo;oxygène liquide (5 tonnes). La poussée est assurée par un moteur &lt;em&gt;Merlin 1C&lt;/em&gt;, fournissant 197 kN de poussée dans le vide, pour une Isp de 305 secondes. Sa tuyère est orientable de 5°.&lt;/p&gt;
+
+&lt;h3 id=&#34;troisième-étage&#34;&gt;Troisième étage&lt;/h3&gt;
+
+&lt;p&gt;L&amp;rsquo;étage supérieur fonctionne avec un couple carburant/comburant hypergolique : &lt;a href=&#34;https://fr.wikipedia.org/wiki/A%C3%A9rozine_50&#34;&gt;Aérozine 50&lt;/a&gt; comme carburant, et le &lt;a href=&#34;https://fr.wikipedia.org/wiki/Peroxyde_d%27azote&#34;&gt;péroxyde d&amp;rsquo;azote, ou NTO&lt;/a&gt; comme comburant. Le réservoir de cet étage contient 670 kg d&amp;rsquo;Aérozine 50 et 1080 kg de NTO. Le moteur est un &lt;em&gt;LR81-8096&lt;/em&gt; fournissant 31 kN de poussée dans le vide pour une Isp de 300 secondes. Sa tuyère est orientable de 2,5°.&lt;/p&gt;
+
+&lt;p&gt;Cet étage contient également un peu de monergol (10 kg) est dispose de quatre propulseurs RCS à la base du réservoir, pour permettre l&amp;rsquo;orientation de l&amp;rsquo;étage alors que le moteur est éteint (pendant une phase de vol balistique avant une maneuvre par exemple).&lt;/p&gt;
+
+&lt;p&gt;Il y a également une caméra placée sur le flanc du réservoir, qui permet aux équipes au sol de s&amp;rsquo;assurer de la bonne séparation des étages inférieurs pendant l&amp;rsquo;ascension.&lt;/p&gt;
+
+&lt;p&gt;Enfin, une coiffe constituée de quatre panneaux protège la charge utile montée au dessus de ce troisième étage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
