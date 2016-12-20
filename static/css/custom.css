@@ -27,3 +27,31 @@ blockquote {
 a, a:visited, a:hover, a:active, a:focus {
   color: #1893F4;
 }
+
+.figures-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.figures-list > a {
+  max-width: 50%;
+}
+
+.figures-list figure {
+  border: 1px solid #eee;
+}
+
+.figures-list figcaption {
+  text-align: center;
+}
+
+.figures-list a, .figures-list a:hover, .figures-list a:active, .figures-list a:visited {
+  text-decoration: none !important;
+}
+
+.figures-list img {
+  width: 100%;
+}

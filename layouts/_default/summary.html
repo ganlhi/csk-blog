@@ -5,10 +5,4 @@
     {{ partial "post_meta.html" . }}
 
   </header>
-
-  {{ if .Truncated }}
-  <footer>
-    <a href="{{ .RelPermalink }}">Lire<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  {{ end }}
 </article>

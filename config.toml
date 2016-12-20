@@ -30,6 +30,12 @@ theme = "blackburn"
     identifier = "centre-spatial"
     url = "/centre-spatial/"
   [[menu.main]]
+    name = "Missions"
+    pre = "<i class='fa fa-rebel fa-fw'></i>"
+    weight = 2
+    identifier = "missions"
+    url = "/missions/"
+  [[menu.main]]
     name = "Vaisseaux et lanceurs"
     pre = "<i class='fa fa-rocket fa-fw'></i>"
     weight = 2
