@@ -11,9 +11,9 @@ topics = [
 
 Le lanceur Vagabond est le premier lanceur conçu par le CSK. Ses capacités lui permettent de lancer en orbite basse de Kerbin de petites charges jusqu'à 400 kg.
 
-Initialement conçu pour la mission [Apogée](/csk-blog/missions/apogee), la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.
+Initialement conçu pour la mission [Apogée]({{< ref "missions/apogee.md" >}}), la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.
 
-![](/csk-blog/images/vaisseaux/Vagabond/BP.png)
+![]({{< staticurl "images/vaisseaux/Vagabond/BP.png" >}})
 
 ## Caractéristiques techniques
 
