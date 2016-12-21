@@ -6,8 +6,38 @@
     <description>Recent content on Centre Spatial de Kerbin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 20 Dec 2016 13:02:43 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 08:12:27 +0100</lastBuildDate>
     <atom:link href="https://ganlhi.github.io/csk-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Succès de la mission Apogée</title>
+      <link>https://ganlhi.github.io/csk-blog/post/Y01D030_succes_apogee/</link>
+      <pubDate>Wed, 21 Dec 2016 08:12:27 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/post/Y01D030_succes_apogee/</guid>
+      <description>&lt;p&gt;Comme prévu par le calendrier, le lancement de la &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions/apogee/&#34;&gt;mission Apogée&lt;/a&gt; a eu lieu ce matin.&lt;/p&gt;
+
+&lt;p&gt;À 10h heure locale, la mise à feu du premier étage du lanceur Vagabond a marqué le début de cette mission historique. La fusée a alors suivi la trajectoire prévue, guidée par son ordinateur de bord. Les étages 2 et 3 se sont également comporté comme prévu.&lt;/p&gt;
+
+&lt;p&gt;La poussée finale permettant la mise en orbite du satellite a été effectuée avec son propre moteur, et à T+44 minutes, le premier satellite conçu par le CSK était en orbite stable !&lt;/p&gt;
+
+&lt;p&gt;À T+78 minutes, Apogée survolait le centre spatial. Son programme indiquait alors qu&amp;rsquo;il devait s&amp;rsquo;orienter de manière à pointer sa caméra vers le sol, et une fois stable activer la dite caméra afin de prendre une photo et la transmettre par radio.&lt;/p&gt;
+
+&lt;p&gt;Cette étape n&amp;rsquo;a été qu&amp;rsquo;un demi-succès car au lieu de se stabiliser, le satellite a continué à tourner sur lui-même. Heureusement, lors de la seconde rotation, il a tout de même activé sa caméra et a transmis la photo suivante :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/images/missions/Apogee/Apogee.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Vidéo de la mission :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/a7ceCzDteW8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Annonce de la mission Apogée</title>
@@ -18,9 +48,9 @@
       <description>&lt;p&gt;À la sortie d&amp;rsquo;une réunion du comité directeur du CSK, l&amp;rsquo;administrateur Elijah Kerman a une annonce à faire :&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Nous avons le plaisir de vous annoncer que d&amp;rsquo;après nos ingénieurs, la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt; pourra bien être lancée dans dix jours, comme prévu initialement.&lt;/p&gt;
+&lt;p&gt;Nous avons le plaisir de vous annoncer que d&amp;rsquo;après nos ingénieurs, la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions/apogee/&#34;&gt;Apogée&lt;/a&gt; pourra bien être lancée dans dix jours, comme prévu initialement.&lt;/p&gt;
 
-&lt;p&gt;Notre service de presse se tient à votre disposition pour vous fournir tous les détails publics concernant cette &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions&#34;&gt;mission&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notre service de presse se tient à votre disposition pour vous fournir tous les détails publics concernant cette &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions&#34;&gt;mission&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Merci de votre attention !&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -33,11 +63,11 @@
       <pubDate>Tue, 20 Dec 2016 12:51:41 +0100</pubDate>
       
       <guid>https://ganlhi.github.io/csk-blog/vaisseaux/apogee/</guid>
-      <description>&lt;p&gt;Ce satellite, nommé d&amp;rsquo;après la mission qu&amp;rsquo;il doit accomplir, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, est le premier conçu par le CSK.&lt;/p&gt;
+      <description>&lt;p&gt;Ce satellite, nommé d&amp;rsquo;après la mission qu&amp;rsquo;il doit accomplir, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions/apogee/&#34;&gt;Apogée&lt;/a&gt;, est le premier conçu par le CSK.&lt;/p&gt;
 
 &lt;p&gt;C&amp;rsquo;est un satellite relativement simple, équipé d&amp;rsquo;une batterie, de panneaux solaires, d&amp;rsquo;une antenne omni-directionelle, et surtout d&amp;rsquo;une caméra qui doit lui permettre d&amp;rsquo;accomplir sa mission.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Apogee/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/images/vaisseaux/Apogee/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La caméra est assez rudimentaire, et ne délivre que des images en noir et blanc assez bruitées. Mais elle a la capacité de résister aux rigueurs de l&amp;rsquo;espace; de plus les images qu&amp;rsquo;elle produit sont d&amp;rsquo;assez basses résolution pour être facilement transmises au sol grâce à la petite antenne du satellite.&lt;/p&gt;
 </description>
@@ -53,15 +83,29 @@
 
 &lt;p&gt;La mission Apogée a pour objectif de réaliser la première mise en orbite d&amp;rsquo;un satellite artificiel autour de Kerbin. Afin de valider l&amp;rsquo;ensemble des expérimentations et des calculs passés, il est prévu de placer en orbite basse un petit satellite dont la mission, très simple, consistera à prendre une photo de notre belle planète, lors de son passage au dessus du centre spatial.&lt;/p&gt;
 
-&lt;p&gt;Le satellite sera placé sur une trajectoire quasiment orbitale par un lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/vaisseaux/vagabond&#34;&gt;Vagabond&lt;/a&gt;. Puis, le satellite terminera la mise en orbite par son propre moyen de propulsion, un petit moteur à ergols liquides.&lt;/p&gt;
+&lt;p&gt;Le satellite sera placé sur une trajectoire quasiment orbitale par un lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/&#34;&gt;Vagabond&lt;/a&gt;. Puis, le satellite terminera la mise en orbite par son propre moyen de propulsion, un petit moteur à ergols liquides.&lt;/p&gt;
 
-&lt;p&gt;Ce satellite porte tout simplement le nom de la mission: &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/vaisseaux/apogee&#34;&gt;Apogée&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce satellite porte tout simplement le nom de la mission: &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/apogee/&#34;&gt;Apogée&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;calendrier&#34;&gt;Calendrier&lt;/h2&gt;
 
 &lt;p&gt;La conception du satellite ayant débuté un peu avant la date zéro du nouveau calendrier, le lancement devrait avoir lieu aux alentours du trentième jour de l&amp;rsquo;année.&lt;/p&gt;
 
 &lt;p&gt;Certains s&amp;rsquo;étaient prononcés pour un lancement du Vagabond embarquant une charge fictive, afin de tester le lanceur, mais étant donné que le lanceur lui-même coûte bien plus cher que le petit satellite, il a été décidé de tenter d&amp;rsquo;accomplir la mission dès le premier lancement.&lt;/p&gt;
+
+&lt;h2 id=&#34;déroulement&#34;&gt;Déroulement&lt;/h2&gt;
+
+&lt;p&gt;Le trentième jour de la première année, la mission Apogée a été lancée et s&amp;rsquo;est déroulée, à un détail près, sans accrocs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ganlhi.github.io/csk-blog/post/Y01D030_succes_apogee/&#34;&gt;Lire le déroulement de la mission&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vidéo de la mission :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/a7ceCzDteW8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
@@ -75,9 +119,9 @@
 
 &lt;p&gt;Le lanceur Vagabond est le premier lanceur conçu par le CSK. Ses capacités lui permettent de lancer en orbite basse de Kerbin de petites charges jusqu&amp;rsquo;à 400 kg.&lt;/p&gt;
 
-&lt;p&gt;Initialement conçu pour la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/csk-blog/missions/apogee&#34;&gt;Apogée&lt;/a&gt;, la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.&lt;/p&gt;
+&lt;p&gt;Initialement conçu pour la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions/apogee/&#34;&gt;Apogée&lt;/a&gt;, la particularité de ce lanceur est de ne pas disposer de son propre ordinateur de bord. Il doit donc être interfacé avec celui de sa charge utile pour être controllé.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/csk-blog/images/vaisseaux/Vagabond/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/images/vaisseaux/Vagabond/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;caractéristiques-techniques&#34;&gt;Caractéristiques techniques&lt;/h2&gt;
 
