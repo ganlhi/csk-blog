@@ -19,3 +19,13 @@ Ce satellite porte tout simplement le nom de la mission: [Apogée]({{< ref "vais
 La conception du satellite ayant débuté un peu avant la date zéro du nouveau calendrier, le lancement devrait avoir lieu aux alentours du trentième jour de l'année.
 
 Certains s'étaient prononcés pour un lancement du Vagabond embarquant une charge fictive, afin de tester le lanceur, mais étant donné que le lanceur lui-même coûte bien plus cher que le petit satellite, il a été décidé de tenter d'accomplir la mission dès le premier lancement.
+
+## Déroulement
+
+Le trentième jour de la première année, la mission Apogée a été lancée et s'est déroulée, à un détail près, sans accrocs.
+
+[Lire le déroulement de la mission]({{< ref "post/Y01D030_succes_apogee.md" >}})
+
+Vidéo de la mission :
+
+{{< youtube a7ceCzDteW8 >}}
