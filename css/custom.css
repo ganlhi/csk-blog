@@ -4,12 +4,26 @@ blockquote {
   margin-left: 0;
 }
 
-#menu {
+#layout.active #menu {
   width: 220px;
 }
 
-#layout {
-  padding-left: 220px;
+@media (min-width: 48em) {
+  #layout {
+    padding-left: 220px; /* left col width "#menu" */
+  }
+  #menu {
+    width: 220px;
+  }
+}
+
+@media (max-width: 48em) {
+  #layout.active .menu-link {
+    left: 220px;
+  }
+  #layout.active {
+    left: 0;
+  }
 }
 
 .content .post-meta {
@@ -54,4 +68,8 @@ a, a:visited, a:hover, a:active, a:focus {
 
 .figures-list img {
   width: 100%;
+}
+
+.content p > img {
+  max-width: 100%;
 }
