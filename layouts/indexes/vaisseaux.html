@@ -4,7 +4,7 @@
   <h1>Vaisseaux et lanceurs</h1>
 </div>
 <div class="content figures-list">
-  {{ range .Data.Pages }}
+  {{ range .Data.Pages.ByTitle }}
   <a href="{{ .Permalink }}">
     <figure>
       <img src="/csk-blog/images/vaisseaux/{{ if isset .Params "id" }}{{ .Params.id }}{{ else }}{{ .Title }}{{ end }}/sil.png" alt="" />

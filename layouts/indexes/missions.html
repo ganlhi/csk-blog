@@ -4,7 +4,7 @@
   <h1>Missions</h1>
 </div>
 <div class="content figures-list">
-  {{ range .Data.Pages }}
+  {{ range .Data.Pages.ByTitle }}
   <a href="{{ .Permalink }}">
     <figure>
       <img src="/csk-blog/images/missions/{{ .Params.id }}/{{ .Params.patch }}" alt="" />
