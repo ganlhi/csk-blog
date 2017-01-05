@@ -6,8 +6,40 @@
     <description>Recent content in Missions-rsses on Centre Spatial de Kerbin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 20 Dec 2016 11:56:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2017 15:58:09 +0100</lastBuildDate>
     <atom:link href="https://ganlhi.github.io/csk-blog/missions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Icarus</title>
+      <link>https://ganlhi.github.io/csk-blog/missions/icarus/</link>
+      <pubDate>Wed, 04 Jan 2017 15:58:09 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/missions/icarus/</guid>
+      <description>
+
+&lt;p&gt;En parallèle du développement de la mission Apogée, quatre astronautes issus d&amp;rsquo;anciens programmes spatiaux nationaux se sont rassemblés pour préparer la première mission habitée menée par le CSK.&lt;/p&gt;
+
+&lt;p&gt;Bien évidemment, il s&amp;rsquo;agira pour ces vétérans d&amp;rsquo;une mission très simple : un simple mise en orbite à bord d&amp;rsquo;une capsule monoplace, puis une rentrée atmosphérique. Mais l&amp;rsquo;objectif premier de cette mission est de tester la dite capsule, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/icarus/&#34;&gt;Icarus&lt;/a&gt;, et son lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/pelerin/&#34;&gt;Pélerin&lt;/a&gt;. Ces deux équimenents, ou des variantes, seront par la suite utilisés pour des missions plus ambitieuses.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendrier&#34;&gt;Calendrier&lt;/h2&gt;
+
+&lt;p&gt;Le matériel étant préparé par des équipes différentes de celles travaillant sur Apogée, le lancement de cette mission est attendu assez tôt, à priori aux alentours du jour 70.&lt;/p&gt;
+
+&lt;h2 id=&#34;déroulement&#34;&gt;Déroulement&lt;/h2&gt;
+
+&lt;p&gt;Le jour 72 de la première année, la mission Icarus a été lancée avec succès.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ganlhi.github.io/csk-blog/post/Y01D072_succes_icarus/&#34;&gt;Lire le déroulement de la mission&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vidéo de la mission :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/C1F98-8PC0I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Apogée</title>

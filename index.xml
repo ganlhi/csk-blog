@@ -6,8 +6,114 @@
     <description>Recent content on Centre Spatial de Kerbin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 21 Dec 2016 08:12:27 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 09:10:19 +0100</lastBuildDate>
     <atom:link href="https://ganlhi.github.io/csk-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Premier vol habité : Icarus</title>
+      <link>https://ganlhi.github.io/csk-blog/post/Y01D072_succes_icarus/</link>
+      <pubDate>Thu, 05 Jan 2017 09:10:19 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/post/Y01D072_succes_icarus/</guid>
+      <description>&lt;p&gt;Le Centre Spatial de Kerbin a le plaisir de vous annoncer le succès du premier vol habité de ce programme spatial !&lt;/p&gt;
+
+&lt;p&gt;Avec deux jours de retard par rapport aux prévisions initiales, la mission &lt;a href=&#34;https://ganlhi.github.io/csk-blog/missions/icarus/&#34;&gt;Icarus&lt;/a&gt; a été lancée dans la matinée, et s&amp;rsquo;est déroulée à merveille.&lt;/p&gt;
+
+&lt;p&gt;Le pilotage de la fusée et la gestion de la rentrée atmosphérique étaient entièrement gérés par l&amp;rsquo;ordinateur de bord; néanmoins le vétéran de nos astronautres, Jebediah Kerman, se trouvait à bord et a pu mener diverses observations et vérifications techniques durant les deux orbites qu&amp;rsquo;a duré la mission.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Vidéo de la mission :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/C1F98-8PC0I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Pélerin</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/pelerin/</link>
+      <pubDate>Wed, 04 Jan 2017 16:19:46 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/pelerin/</guid>
+      <description>
+
+&lt;p&gt;Dès le début du développement du lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/vagabond/&#34;&gt;Vagabond&lt;/a&gt;, il est très vite apparu qu&amp;rsquo;un lanceur plus lourd allait être rapidement nécessaire, en particulier pour les premiers vols habités. La conception du Pélerin a alors débuté en parallèle.&lt;/p&gt;
+
+&lt;p&gt;Ce lanceur, d&amp;rsquo;un diamètre plus important que son petit frère, est capable d&amp;rsquo;emmener en orbite basse une charge d&amp;rsquo;un peu plus d&amp;rsquo;une tonne. Ceci dit, il a avant tout été conçu pour lancer la capsule &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/icarus/&#34;&gt;Icarus&lt;/a&gt;, qui pèse près de deux tonnes. Celle-ci étant équipée d&amp;rsquo;un moteur orbital, elle doit donc terminer la mise en orbite par ses propres moyens.&lt;/p&gt;
+
+&lt;p&gt;La masse du lanceur au décollage est d&amp;rsquo;environ 85 tonnes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/images/vaisseaux/Pelerin/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;caractéristiques-techniques&#34;&gt;Caractéristiques techniques&lt;/h2&gt;
+
+&lt;p&gt;Le Pélerin est un lanceur à deux étages à propulsion liquide, utilisant tous deux le même type de moteur : le &lt;em&gt;Merlin 1D&lt;/em&gt;. Ce moteur produit une poussée de 267,9 kN au niveau de la mer (304 kN dans le vide), pour une Isp de 282 secondes (320 secondes respectivement). Le est également orientable de 5°.&lt;/p&gt;
+
+&lt;h3 id=&#34;premier-étage&#34;&gt;Premier étage&lt;/h3&gt;
+
+&lt;p&gt;Embarquant du kérosène (16,7 tonnes) et de l&amp;rsquo;oxygène liquide (20,5 tonnes), cet étage de 1,875 mètres de diamètre est propulsé par un groupe de quatre moteurs &lt;em&gt;Merlin 1D&lt;/em&gt;, fournissant une poussée totale de 1071,6 kN au décollage.&lt;/p&gt;
+
+&lt;h3 id=&#34;deuxième-étage&#34;&gt;Deuxième étage&lt;/h3&gt;
+
+&lt;p&gt;Le deuxième étage, du même diamètre que le premier, est un peu plus court et n&amp;rsquo;embarque que 13,2 tonnes de kérosène et 16,15 tonnes d&amp;rsquo;oxygène liquide. Il est propulsé par deux moteurs &lt;em&gt;Merlin 1D&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Icarus</title>
+      <link>https://ganlhi.github.io/csk-blog/vaisseaux/icarus/</link>
+      <pubDate>Wed, 04 Jan 2017 16:19:41 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/vaisseaux/icarus/</guid>
+      <description>&lt;p&gt;Premier vaisseau habité conçu par le CSK, la capsule Icarus est capable d&amp;rsquo;emporter une personne en orbite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ganlhi.github.io/csk-blog/images/vaisseaux/Icarus/BP.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sa conception est relativement simple. La capsule elle-même embarque une batterie électrique, des réserves d&amp;rsquo;oxygène et un peu de monergol pour les petits propulseurs d&amp;rsquo;attitude placés de part et d&amp;rsquo;autre de la porte. Au sommet de la capsule se trouve le parachute.&lt;/p&gt;
+
+&lt;p&gt;Pour la phase de rentrée atmosphérique, un bouclier thermique est attaché sous la capsule.&lt;/p&gt;
+
+&lt;p&gt;Enfin, un module de service est situé en dessous du bouclier thermique. Ce module est largué au début de la rentrée atmosphérique et se consume dans la haute atmosphére. Il contient de l&amp;rsquo;&lt;a href=&#34;https://fr.wikipedia.org/wiki/A%C3%A9rozine_50&#34;&gt;Aérozine 50&lt;/a&gt; (478 kg) et du &lt;a href=&#34;https://fr.wikipedia.org/wiki/Peroxyde_d%27azote&#34;&gt;NTO&lt;/a&gt; (942 kg) pour alimenter un moteur &lt;em&gt;SuperDraco L&lt;/em&gt; (poussée dans le vide : 35 kN, Isp : 325 s).&lt;/p&gt;
+
+&lt;p&gt;Juste au dessus du moteur se trouvent de petits propulseurs d&amp;rsquo;attitude alimentés par une petite réserve de monergol située dans le module de service. Ce monergol alimente également une pile à combustible fournissant de l&amp;rsquo;électricité au vaisseau lors de son séjour en orbite.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Icarus</title>
+      <link>https://ganlhi.github.io/csk-blog/missions/icarus/</link>
+      <pubDate>Wed, 04 Jan 2017 15:58:09 +0100</pubDate>
+      
+      <guid>https://ganlhi.github.io/csk-blog/missions/icarus/</guid>
+      <description>
+
+&lt;p&gt;En parallèle du développement de la mission Apogée, quatre astronautes issus d&amp;rsquo;anciens programmes spatiaux nationaux se sont rassemblés pour préparer la première mission habitée menée par le CSK.&lt;/p&gt;
+
+&lt;p&gt;Bien évidemment, il s&amp;rsquo;agira pour ces vétérans d&amp;rsquo;une mission très simple : un simple mise en orbite à bord d&amp;rsquo;une capsule monoplace, puis une rentrée atmosphérique. Mais l&amp;rsquo;objectif premier de cette mission est de tester la dite capsule, &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/icarus/&#34;&gt;Icarus&lt;/a&gt;, et son lanceur &lt;a href=&#34;https://ganlhi.github.io/csk-blog/vaisseaux/pelerin/&#34;&gt;Pélerin&lt;/a&gt;. Ces deux équimenents, ou des variantes, seront par la suite utilisés pour des missions plus ambitieuses.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendrier&#34;&gt;Calendrier&lt;/h2&gt;
+
+&lt;p&gt;Le matériel étant préparé par des équipes différentes de celles travaillant sur Apogée, le lancement de cette mission est attendu assez tôt, à priori aux alentours du jour 70.&lt;/p&gt;
+
+&lt;h2 id=&#34;déroulement&#34;&gt;Déroulement&lt;/h2&gt;
+
+&lt;p&gt;Le jour 72 de la première année, la mission Icarus a été lancée avec succès.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ganlhi.github.io/csk-blog/post/Y01D072_succes_icarus/&#34;&gt;Lire le déroulement de la mission&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vidéo de la mission :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/C1F98-8PC0I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Succès de la mission Apogée</title>
